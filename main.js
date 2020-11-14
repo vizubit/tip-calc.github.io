@@ -13,6 +13,5 @@ tipAmount.value = tipValue.toFixed(2);
  totalBillWithTip.value =finalBill.toFixed(2);
 
  //Show Results
-
   document.getElementById('results').style.display='block'
 }
